@@ -1,0 +1,10 @@
+{"machine": "M1", "sensor": "temp", "value": 71.2, "ts": "2026-01-01T10:00:00+00:00"}
+   
+{"machine": "M2", "sensor": "vibration", "value": 0.45, "ts": "2026-01-01T10:01:00Z"}
+not json
+[]
+{"machine": "M1", "sensor": "temp", "value": 23.4}
+{"machine": "M1", "sensor": "temp", "value": true, "ts": "2026-01-01T10:02:00Z"}
+{"machine": "M1", "sensor": "temp", "value": Infinity, "ts": "2026-01-01T10:03:00Z"}
+{"machine": "M3", "sensor": "pressure", "value": 101.3, "ts": "2026-01-01T10:04:00"}
+{"machine": "M3", "sensor": "pressure", "value": 98.7, "ts": "2026-01-01T10:05:00-05:00"}
